@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<!--
-**o-gariba/o-gariba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro Garibaldi Santos, mas fique a vontade para me chamar de Gariba (ou Garibaldi) 😄
 
+Aproveite e faça parte da minha rede no Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/pedrogaribaldi/)](https://www.linkedin.com/in/pedrogaribaldi/)
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
