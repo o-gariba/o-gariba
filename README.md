@@ -14,7 +14,7 @@ Algumas linguagens exploradas foram:
   - [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
 Depois de concluída a faculdade, foquei minha energia em estudar na Alura, sozinho, e acabei conhecendo mais:
-  - [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/) 💖
+  - [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
   - [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/javascript)
  
 Gostei muito de estudar novas linguagens, contudo já não estava gostando tanto da experiência de estudar completamente sozinho, me senti desmotivado, até o momento em que soube da oportunidade que o Grupo Boticário estava oferecendo bolsas de estudos na área tec, focada em desenvolvimento fullstack. Me inscrevi e fui selecionado!! Estou 100% dedicado à isso no momento :D
