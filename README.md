@@ -4,7 +4,8 @@ Meu nome é Pedro Garibaldi Santos, mas fique a vontade para me chamar de Gariba
 
 Aproveite e faça parte da minha rede no [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/pedrogaribaldi/)](https://www.linkedin.com/in/pedrogaribaldi/)
 
-Minha história com a programação começa em 2016, com a minha primeira matéria da computação, a Introdução a Computação 1. Foi muito emocionante. Logo em seguida veio a Introdução a Computação 2, Banco de Dados, Cálculo Numérico, Métodos Matemáticos e Probabilidade e Estatística 1 e 2.
+Minha história com a programação começa em 2016, na minha graduação em Matemática Aplicada a Negócios, com Introdução a Computação 1. Foi emocionante. 
+Logo em seguida veio a Introdução a Computação 2, Banco de Dados, Cálculo Numérico, Métodos Matemáticos e Probabilidade e Estatística 1 e 2.
 
 Algumas linguagens exploradas foram:
   - [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](http://www.open-std.org/jtc1/sc22/wg14/)
@@ -17,7 +18,9 @@ Depois de concluída a faculdade, foquei minha energia em estudar na Alura, sozi
   - [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
   - [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/javascript)
  
-Gostei muito de estudar novas linguagens, contudo já não estava gostando tanto da experiência de estudar completamente sozinho, me senti desmotivado, até o momento em que soube da oportunidade que o Grupo Boticário estava oferecendo bolsas de estudos na área tec, focada em desenvolvimento fullstack. Me inscrevi e fui selecionado!! Estou 100% dedicado à isso no momento :D
+Gostei muito de estudar novas linguagens, contudo já não estava gostando tanto da experiência de estudar completamente sozinho, me senti desmotivado até o momento em que soube da oportunidade que o Grupo Boticário estava oferecendo bolsas de estudos na área tec, focada em desenvolvimento fullstack. Me inscrevi e fui selecionado!! 
+
+Hoje trabalho na healthtech [Carefy](https://carefy.com.br/), como desenvolvedor de software com foco no cenário de saúde. Trabalho com javacript (Typescript, NodeJs, React, Prisma, Jest), SQL e PHP (Laravel), focado em integrações entre sistemas de saúde.
 
 ---------------------------------
 
