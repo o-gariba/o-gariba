@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Meu nome é Pedro Garibaldi Santos, mas fique a vontade para me chamar de Gariba (ou Garibaldi) 😄
-
 Aproveite e faça parte da minha rede no [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/pedrogaribaldi/)](https://www.linkedin.com/in/pedrogaribaldi/)
 
 Minha história com a programação começa em 2016, na minha graduação em Matemática Aplicada a Negócios, com Introdução a Computação 1. Foi emocionante. 
@@ -20,7 +18,10 @@ Depois de concluída a faculdade, foquei minha energia em estudar na Alura, sozi
  
 Gostei muito de estudar novas linguagens, contudo já não estava gostando tanto da experiência de estudar completamente sozinho, me senti desmotivado até o momento em que soube da oportunidade que o Grupo Boticário estava oferecendo bolsas de estudos na área tec, focada em desenvolvimento fullstack. Me inscrevi e fui selecionado!! 
 
-Hoje trabalho na healthtech [Carefy](https://carefy.com.br/), como desenvolvedor de software com foco no cenário de saúde. Trabalho com javacript (Typescript, NodeJs, React, Prisma, Jest), SQL e PHP (Laravel), focado em integrações entre sistemas de saúde.
+Comecei a me dedicar em:
+  - 
+
+Trabalhei na healthtech [Carefy](https://carefy.com.br/), como desenvolvedor de software com foco no cenário de saúde. Focado em javacript (Typescript, NodeJs, React, Prisma, Jest), SQL e PHP (Laravel), liderando as integrações entre sistemas de saúde.
 
 ---------------------------------
 
