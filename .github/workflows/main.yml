@@ -4,6 +4,7 @@ on:
   schedule:
     # Roda a cada 6 horas
     - cron: '0 */6 * * *'
+  # Permite que você rode esta action manualmente a partir do separador Actions
   workflow_dispatch:
 
 jobs:
@@ -21,10 +22,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
+          # O branch para onde a imagem será enviada
           target_branch: output
+          # O diretório que será "publicado"
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
